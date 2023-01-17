@@ -1,0 +1,57 @@
+@import url("https://fonts.googleapis.com/css2?family=Orienta:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Orbitron:wght@700&display=swap");
+
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-inter: Inter;
+  --font-orienta: Orienta;
+  --font-orbitron: Orbitron;
+  --font-inherit: inherit;
+  --font-poppins: Poppins;
+
+  /* font sizes */
+  --font-size-sm: 16px;
+  --font-size-base: 20px;
+  --font-size-lg: 22px;
+  --font-size-xl: 28px;
+  --font-size-2xl: 32px;
+  --font-size-3xl: 44px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-gray-100: #d9d9d9;
+  --color-gray-200: #1a2a3a;
+  --color-gray-300: #07182a;
+  --color-gray-400: #020e1c;
+  --color-gray-500: #010a18;
+  --color-gray-600: rgba(213, 240, 242, 0.75);
+  --color-cyan-100: #00fff0;
+  --color-black: #000;
+  --color-violet: #af6db5;
+
+  /* Gaps */
+  --gap-xs: 17px;
+  --gap-sm: 18px;
+  --gap-md: 20px;
+  --gap-lg: 47px;
+  --gap-xl: 53px;
+
+  /* border radiuses */
+  --br-4xs: 2px;
+  --br-3xs: 6px;
+  --br-2xs: 14px;
+  --br-xs: 17px;
+  --br-sm: 20px;
+  --br-md: 22px;
+  --br-lg: 27px;
+  --br-xl: 28px;
+  --br-2xl: 30px;
+  --br-3xl: 31px;
+  --br-4xl: 44px;
+}
